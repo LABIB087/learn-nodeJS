@@ -1,0 +1,1 @@
+this file is created by using file system module in node jsthis text is an append text which is appended by using appendFile function
